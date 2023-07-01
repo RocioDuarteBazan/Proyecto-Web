@@ -17,7 +17,7 @@
 
 # Lanzar el Proyecto
 
-## python manage.py runserver
+## python3 manage.py runserver
 
 # Visualizar el Proyecto
 
