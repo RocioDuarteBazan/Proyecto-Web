@@ -4,13 +4,13 @@
 
 # Integrantes del Grupo 18
 
-## Mónica Inés Cesana Bernasconi
-## Juan Kiel Sodja Bogado
-## Rocío Duarte
-## Mario Luis Fretes
-## Emanuel Domingo Montenegro
-## Hugo Smahlij
-
+- *Mónica Inés Cesana Bernasconi*
+- *Juan Kiel Sodja Bogado*
+- *Rocío Duarte*
+- *Mario Luis Fretes*
+- *Emanuel Domingo Montenegro*
+- *Hugo Smahlij*
+  
 # Getting started
 
 ## Es recomendable usar un entorno virtual
