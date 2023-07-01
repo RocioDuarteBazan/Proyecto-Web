@@ -1,5 +1,6 @@
 # Proyecto-Web
-# Este es un Proyecto de un Blog en Django
+
+## Este es un Proyecto de un Blog en Django
 
 # Integrantes del Grupo 18
 
@@ -12,13 +13,13 @@
 
 # Getting started
 
-# Es recomendable usar un entorno virtual
+## Es recomendable usar un entorno virtual
 
 # Lanzar el Proyecto
 
-# python manage.py runserver
+## python manage.py runserver
 
 # Visualizar el Proyecto
 
-# http://127.0.0.1:8000/
+## http://127.0.0.1:8000/
 
