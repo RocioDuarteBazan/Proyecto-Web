@@ -6,7 +6,7 @@
 
 - *Mónica Inés Cesana Bernasconi*
 - *Juan Kiel Sodja Bogado*
-- *Rocío Duarte*
+- *Rocío Duarte Bazán*
 - *Mario Luis Fretes*
 - *Emanuel Domingo Montenegro*
 - *Hugo Smahlij*
