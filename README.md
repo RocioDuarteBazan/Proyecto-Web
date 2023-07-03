@@ -1,8 +1,6 @@
-# Proyecto-Web 
-# creado y probado en primer lugar en
-# Linux Ubuntu 22.04.2 LTS x86_64
+# Este es un Proyecto de un Blog en Django
 
-- *Este es un Proyecto de un Blog en Django*
+- *Proyecto-Web creado y probado en primer lugar en Linux Ubuntu 22.04.2 LTS x86_64*
 
 # Integrantes del Grupo 18
 
@@ -24,4 +22,5 @@
 # Visualizar el Proyecto
 
 - *http://127.0.0.1:8000/*
+
 
