@@ -15,13 +15,13 @@
   
 # Getting started
 
-## Es recomendable usar un entorno virtual
+- *Es recomendable usar un entorno virtual*
 
 # Lanzar el Proyecto
 
-## python3 manage.py runserver
+- *python3 manage.py runserver*
 
 # Visualizar el Proyecto
 
-## http://127.0.0.1:8000/
+- *http://127.0.0.1:8000/*
 
